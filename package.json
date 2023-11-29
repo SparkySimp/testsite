@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SparkySimp/homepage/issues"
   },
-  "homepage": "https://github.com/SparkySimp/homepage#readme"
+  "homepage": "https://github.com/SparkySimp/homepage#readme",
+  "dependencies": {
+    "bootstrap": "5.3.2"
+  }
 }
