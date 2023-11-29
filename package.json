@@ -1,0 +1,19 @@
+{
+  "name": "testsite",
+  "version": "1.0.0",
+  "description": "test sayfası",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SparkySimp/homepage.git"
+  },
+  "author": "Kıvılcım S. Luna Öztürk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SparkySimp/homepage/issues"
+  },
+  "homepage": "https://github.com/SparkySimp/homepage#readme"
+}
